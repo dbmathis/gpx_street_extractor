@@ -80,4 +80,4 @@ Example:
 
 ## Author
 
-[dbmathis / GitHub handle](https://github.com/dbmathis)
+[dbmathis](https://github.com/dbmathis)
